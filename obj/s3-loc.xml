@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <vfs_file >C:\Users\i1035275\s3.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\i1035275\s3.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 53" line=" 19">
+      <vfs_project >C:\Users\i1035275\s3.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 1">
+      <vfs_project >C:\Users\i1035275\s3.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 3">
+      <vfs_project >C:\Users\i1035275\s3.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 1">
+      <vfs_project >C:\Users\i1035275\s3.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 5">
+      <vfs_project >C:\Users\i1035275\s3.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Users\i1035275\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 5">
+      <vfs_project  />
+      <vfs_file >C:\Users\i1035275\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 13">
+      <vfs_project  />
+      <vfs_file >C:\Users\i1035275\monitor.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 58" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 20" line=" 13" >
+      <vfs_project />
+      <vfs_file>C:\Users\i1035275\src\monitor.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

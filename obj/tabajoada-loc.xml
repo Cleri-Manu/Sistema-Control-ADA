@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\actuadorEscritorP.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\central.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\ciudad.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\monitor.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\SensorLectorP.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\SensorLectorP.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\SensorLectorP.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\i1035275\Downloads\TrabajoAda\tabajoada.gpr</vfs_project>
+      <vfs_file>C:\Users\i1035275\Downloads\TrabajoAda\src\actuadorEscritorP.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\ciudad.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\ciudad.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\central.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\central.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 19">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\SensorLectorP.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\SensorLectorP.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 35" line=" 25">
+      <vfs_project >C:\Users\i1035275\tabajoada.gpr</vfs_project>
+      <vfs_file >C:\Users\i1035275\src\actuadorEscritorP.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
